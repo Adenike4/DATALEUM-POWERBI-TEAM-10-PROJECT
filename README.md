@@ -4,4 +4,5 @@ This Project Contains a task given to us by Dataleum to carry out sales analysis
 ## Table of Content 
 1.0 - Introduction
 
+![](Amazon2.png)
 
